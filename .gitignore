@@ -1,8 +1,10 @@
 /.phpunit.cache
 /node_modules
-/public/build
 /public/hot
 /public/storage
+/public/backend
+/public/frontend
+/public/uploads
 /storage/*.key
 /vendor
 .env
@@ -17,3 +19,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+# /.ecommerce-application-templates
